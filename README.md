@@ -1,2 +1,2 @@
-# CODSOFT
-CodSoft | Data Science | Internship
+# CODEALPHA
+Codalpha | Data Science | Internship
